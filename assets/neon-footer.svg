@@ -1,0 +1,22 @@
+<svg width="1200" height="160" viewBox="0 0 1200 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="footerTitle footerDesc">
+  <title id="footerTitle">Neon footer bar</title>
+  <desc id="footerDesc">A glowing footer strip with an always in progress message.</desc>
+  <defs>
+    <linearGradient id="footerLine" x1="60" y1="28" x2="1140" y2="132" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00F0FF"/>
+      <stop offset="0.5" stop-color="#FF2BD6"/>
+      <stop offset="1" stop-color="#FF8A00"/>
+    </linearGradient>
+  </defs>
+  <rect x="24" y="24" width="1152" height="112" rx="28" fill="#0A0F1C"/>
+  <rect x="24.5" y="24.5" width="1151" height="111" rx="27.5" stroke="url(#footerLine)" stroke-opacity="0.54"/>
+  <path d="M84 80H1116" stroke="url(#footerLine)" stroke-opacity="0.22" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="120" cy="80" r="10" fill="#00F0FF">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1080" cy="80" r="10" fill="#FF2BD6">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.9s" repeatCount="indefinite"/>
+  </circle>
+  <text x="600" y="72" text-anchor="middle" fill="#F7FBFF" font-family="'Space Grotesk', 'Pretendard', sans-serif" font-size="26" font-weight="800" letter-spacing="2.4">BUILD LOUD. SHIP CLEAN. STAY ELECTRIC.</text>
+  <text x="600" y="102" text-anchor="middle" fill="#9FB0D2" font-family="'Space Grotesk', 'Pretendard', sans-serif" font-size="18" font-weight="500" letter-spacing="1.6">README signal amplified for the GitHub profile front door.</text>
+</svg>
