@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heodongun/heodongun/main/assets/header-dark.svg">
-  <img alt="Heo Dongun's GitHub Profile Header" src="https://raw.githubusercontent.com/heodongun/heodongun/main/assets/header-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heodongun/heodongun/986b7f63d708f81d6f96d59283d0f6f6dce11851/assets/header-dark.svg">
+  <img alt="Heo Dongun's GitHub Profile Header" src="https://raw.githubusercontent.com/heodongun/heodongun/986b7f63d708f81d6f96d59283d0f6f6dce11851/assets/header-light.svg">
 </picture>
 
 </div>
