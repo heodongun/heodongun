@@ -1,17 +1,9 @@
 <div align="center">
 
-# 허동운 | Heo Dongun
-
-**Backend Developer** · **AI / Infra / Automation**
-
-*"일상의 귀찮음을 코드로 해결하는 개발자"*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://mint-middle-1e5.notion.site/2b7655e8316980ad9422d96a6f3947de)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/heodongun)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@pobi/posts)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8F%99%EC%9A%B4-%ED%97%88-ab2b6135b/)
-[![Threads](https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@heodongun0922)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:heodongun08@gmail.com)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heodongun/heodongun/main/assets/header-dark.svg">
+  <img alt="Heo Dongun's GitHub Profile Header" src="https://raw.githubusercontent.com/heodongun/heodongun/main/assets/header-light.svg">
+</picture>
 
 </div>
 
