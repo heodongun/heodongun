@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, 'Courier New', monospace" width="985px" height="420px" font-size="15px">
+<style>
+.key {fill: #0969da; font-weight: bold;}
+.value {fill: #1f2328;}
+.accent {fill: #1a7f37;}
+.delimiter {fill: #d1d9e0;}
+.title {fill: #1f2328; font-weight: bold; font-size: 16px;}
+.subtitle {fill: #656d76; font-size: 13px;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="420px" fill="#ffffff" rx="12"/>
+<rect width="983px" height="418px" x="1" y="1" fill="none" stroke="#d1d9e0" stroke-width="1" rx="11"/>
+
+<!-- Left side decorative ASCII -->
+<text x="30" y="35" fill="#f6f8fa" font-size="14px">
+<tspan x="30" y="35" fill="#f6f8fa">    ╭─────────────────╮</tspan>
+<tspan x="30" y="55" fill="#f6f8fa">    │  <tspan fill="#d1d9e0">┌─────────┐</tspan>  │</tspan>
+<tspan x="30" y="75" fill="#f6f8fa">    │  <tspan fill="#d1d9e0">│ Backend │</tspan>  │</tspan>
+<tspan x="30" y="95" fill="#f6f8fa">    │  <tspan fill="#d1d9e0">│  Dev    │</tspan>  │</tspan>
+<tspan x="30" y="115" fill="#f6f8fa">    │  <tspan fill="#d1d9e0">└─────────┘</tspan>  │</tspan>
+<tspan x="30" y="135" fill="#f6f8fa">    │   <tspan fill="#0969da">&lt;/&gt;</tspan>  <tspan fill="#bc4c00">{ }</tspan>   │</tspan>
+<tspan x="30" y="155" fill="#f6f8fa">    │  <tspan fill="#1a7f37">Kotlin</tspan>  <tspan fill="#8250df">Java</tspan>  │</tspan>
+<tspan x="30" y="175" fill="#f6f8fa">    │    <tspan fill="#bf3989">Node</tspan> <tspan fill="#0550ae">AI</tspan>    │</tspan>
+<tspan x="30" y="195" fill="#f6f8fa">    │  <tspan fill="#1a7f37">Docker</tspan>  <tspan fill="#6639ba">Infra</tspan> │</tspan>
+<tspan x="30" y="215" fill="#f6f8fa">    ╰─────────────────╯</tspan>
+<tspan x="30" y="245" fill="#f6f8fa">         <tspan fill="#d1d9e0">╱╲</tspan></tspan>
+<tspan x="30" y="265" fill="#f6f8fa">        <tspan fill="#d1d9e0">╱  ╲</tspan></tspan>
+<tspan x="30" y="285" fill="#f6f8fa">       <tspan fill="#d1d9e0">╱    ╲</tspan></tspan>
+<tspan x="30" y="305" fill="#f6f8fa">      <tspan fill="#d1d9e0">╱██████╲</tspan></tspan>
+<tspan x="30" y="325" fill="#f6f8fa">     <tspan fill="#d1d9e0">╱████████╲</tspan></tspan>
+</text>
+
+<!-- Right side info -->
+<text x="280" y="35" class="title">
+<tspan x="280" y="35">heodongun@github</tspan><tspan class="delimiter"> ~ </tspan><tspan class="subtitle">———————————————————————————————————————————————————</tspan>
+</text>
+
+<text x="280" y="60">
+<tspan class="delimiter">  . </tspan><tspan class="key">Name</tspan><tspan class="delimiter">: ..................................... </tspan><tspan class="value">허동운 (Heo Dongun)</tspan>
+</text>
+
+<text x="280" y="85">
+<tspan class="delimiter">  . </tspan><tspan class="key">Role</tspan><tspan class="delimiter">: .................................... </tspan><tspan class="value">Backend Developer</tspan>
+</text>
+
+<text x="280" y="110">
+<tspan class="delimiter">  . </tspan><tspan class="key">Focus</tspan><tspan class="delimiter">: .................................. </tspan><tspan class="value">AI / Infra / Automation</tspan>
+</text>
+
+<text x="280" y="135">
+<tspan class="delimiter">  . </tspan><tspan class="key">Education</tspan><tspan class="delimiter">: ........................ </tspan><tspan class="value">부산소프트웨어마이스터고 (수석입학)</tspan>
+</text>
+
+<text x="280" y="160">
+<tspan class="delimiter">  . </tspan><tspan class="key">Philosophy</tspan><tspan class="delimiter">: ....................... </tspan><tspan class="value">"일상의 귀찮음을 코드로 해결하는 개발자"</tspan>
+</text>
+
+<text x="280" y="195" class="title">
+<tspan x="280" y="195">Tech Stack</tspan><tspan class="subtitle"> —————————————————————————————————————————————————</tspan>
+</text>
+
+<text x="280" y="220">
+<tspan class="delimiter">  . </tspan><tspan class="key">Languages</tspan><tspan class="delimiter">: ........................ </tspan><tspan class="value">Java, Kotlin, Node.js</tspan>
+</text>
+
+<text x="280" y="245">
+<tspan class="delimiter">  . </tspan><tspan class="key">Frameworks</tspan><tspan class="delimiter">: ....................... </tspan><tspan class="value">Spring Boot, Ktor, Express.js</tspan>
+</text>
+
+<text x="280" y="270">
+<tspan class="delimiter">  . </tspan><tspan class="key">Database</tspan><tspan class="delimiter">: ......................... </tspan><tspan class="value">MySQL, MongoDB, Elasticsearch</tspan>
+</text>
+
+<text x="280" y="295">
+<tspan class="delimiter">  . </tspan><tspan class="key">DevOps</tspan><tspan class="delimiter">: ........................... </tspan><tspan class="value">Docker, GitHub Actions, Prometheus, Grafana</tspan>
+</text>
+
+<text x="280" y="330" class="title">
+<tspan x="280" y="330">Experience</tspan><tspan class="subtitle"> ————————————————————————————————————————————————</tspan>
+</text>
+
+<text x="280" y="355">
+<tspan class="delimiter">  . </tspan><tspan class="key">Playbunnies</tspan><tspan class="delimiter">: ..................... </tspan><tspan class="value">AI/서버 개발 인턴 (2025.07 ~ 2025.08)</tspan>
+</text>
+
+<text x="280" y="380">
+<tspan class="delimiter">  . </tspan><tspan class="key">OnTheLook</tspan><tspan class="delimiter">: ....................... </tspan><tspan class="value">개발팀 인턴 근무 (2026.01 ~ 2026.03)</tspan>
+</text>
+
+<text x="280" y="405">
+<tspan class="delimiter">  . </tspan><tspan class="key">Portfolio</tspan><tspan class="delimiter">: ......................... </tspan><tspan class="accent">https://bit.ly/heodongun-portfolio</tspan>
+</text>
+
+</svg>
